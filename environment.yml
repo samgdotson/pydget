@@ -1,0 +1,21 @@
+name: pydget-dev
+channels:
+    - conda-forge
+dependencies:
+    # Requirements for core model functionality
+    - python==3.10.13
+    - pip
+    - ipython
+    - matplotlib
+    - pandas
+    - numpy
+    - scipy
+    - ipykernel
+    - jupyterlab
+    - iprogress
+    - lxml
+    - pip:
+      - python-dotenv
+      - streamlit
+      - pytest
+      - dill

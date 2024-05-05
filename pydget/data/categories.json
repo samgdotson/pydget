@@ -1,0 +1,37 @@
+{
+    "capital one":[
+        "Car Rental",
+        "Dining",
+        "Entertainment",
+        "Gas/Automotive",
+        "Health Care",
+        "Internet",
+        "Merchandise",
+        "Other",
+        "Other Services",
+        "Payment/Credit",
+        "Utilities"
+    ],
+    "chase":[
+        "Automotive",
+        "Bills & Utilities",
+        "Education",
+        "Entertainment",
+        "Fees & Adjustments",
+        "Food & Drink",
+        "Gas",
+        "Groceries",
+        "Health & Wellness",
+        "Home",
+        "Personal",
+        "Professional Services",
+        "Shopping",
+        "Travel",
+        "",
+        " "
+    ],
+    "ally":[
+        "Deposit",
+        "Withdrawal"
+    ]
+}
